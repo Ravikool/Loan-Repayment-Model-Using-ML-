@@ -1,4 +1,4 @@
-#Machine Learning Module (Project)
+#Machine Learning Project
 
 #Domain : Banking
 
